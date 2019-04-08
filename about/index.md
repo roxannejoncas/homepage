@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, roxanne oncas]
+tags: [about, roxanne joncas]
 date: 2019-04-08
 comments: false
 ---

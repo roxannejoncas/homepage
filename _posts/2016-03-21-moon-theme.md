@@ -115,14 +115,14 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 - title: Blog
   url: /blog/
 
-- title: Projects
-  url: /projects/
+- title: My Work
+  url: /work/
 
-- title: About
+- title: About Me
   url: /about/
 
-- title: Moon
-  url: http://taylantatli.me/Moon
+- title: Roxanne Joncas
+  url: https://zestyroxy.github.io/homepage/
 {% endhighlight %}
 
 ---

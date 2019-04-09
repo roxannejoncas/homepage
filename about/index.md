@@ -15,7 +15,7 @@ Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 * Planet lover: zero waste tips on Instagram <a href="https://www.instagram.com/noplastichome/">@noplastichome</a>
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    file:///workspace/homepage/assets/img/evulve-square.jpg
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}

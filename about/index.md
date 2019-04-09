@@ -5,20 +5,15 @@ tags: [about, roxanne joncas]
 date: 2019-04-08
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>Hi, I'm Roxanne Joncas and I'm a writer.</center>
+
+## What I do
+* Writer (read my work)
+* Reader (follow <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a> for book recommendations)
+* Planet lover (follow <a href="https://www.instagram.com/noplastichome/">@noplastichome</a> for tips!)
+* Feminist (<a href="https://www.instagram.com/evulving/">Evulving.com</a> is a personal blog where I share what it's like to grow up with a vulva)
+* Speaker and opinion giver
 
 ## Preview
 
@@ -33,5 +28,5 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
+
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}

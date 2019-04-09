@@ -6,16 +6,15 @@ date: 2019-04-08
 comments: false
 ---
 
-<center>Hi, I'm Roxanne Joncas and I'm a writer.</center>
+Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 
 ## What I do
-* Writer (read my work)
-* Reader (follow <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a> for book recommendations)
-* Planet lover (follow <a href="https://www.instagram.com/noplastichome/">@noplastichome</a> for tips!)
-* Feminist (<a href="https://www.instagram.com/evulving/">Evulving.com</a> is a personal blog where I share what it's like to grow up with a vulva)
-* Speaker and opinion giver
+* Writer: my work
+* Reader: books recommendations on Instagram <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a>
+* Planet lover: zero waste tips on instagram <a href="https://www.instagram.com/noplastichome/">@noplastichome</a>
+* Feminist: blog about what it's like to grow up with a vulva at <a href="https://www.instagram.com/evulving/">Evulving.com</a>
 
-## Preview
+## Samples
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -23,10 +22,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## My opinions
 
-## Getting Started
+I share random thoughts and opinion on this website's [blog](/posts).
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Read my opinions](/posts){: .btn}

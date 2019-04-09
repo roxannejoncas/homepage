@@ -185,7 +185,7 @@ All this is done for any sub-level being entered.
 .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu > li {
 	display: block;
 }
-/* Animation classes for moving out and in
+/* Animation classes for moving out and in*/
 .dl-menu.dl-animate-out {
 	-webkit-animation: MenuAnimOut 0.4s ease;
 	-moz-animation: MenuAnimOut 0.4s ease;
@@ -313,7 +313,7 @@ All this is done for any sub-level being entered.
 		transform: translateZ(-300px);
 		opacity: 0;
 	}
-} */
+}
 /* No Touch Fallback */
 .no-touchevents .dl-menuwrapper li a:hover {
 	background: rgba(255,248,213,0.1);

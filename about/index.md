@@ -17,15 +17,13 @@ Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      [![No Plastic Home](/assets/img/zerowaste-square.jpg)](https://www.instagram.com/noplastichome/){:target="_blank"}
+      <a target="_blank" href="https://www.instagram.com/noplastichome/"><img src="/assets/img/zerowaste-square.jpg"></a>
     </div>
     <div class="col-sm">
       [![Evulving website](/assets/img/evulve-square.jpg)](https://www.evulving.com/){:target="_blank"}
     </div>
   </div>
 </div>
-
-
 
 ## My opinions
 

@@ -3,6 +3,8 @@ layout: post
 title: "Unicorn Store - A feminist film"
 date: 2019-04-28
 excerpt: "Last week, I watched Unicorn Store on Netflix. I’m pleased to report that I came out of the viewing experience elated."
+image: /assets/img/unicorn-backpack.png
+card: summary_large_image
 tags: [unicorn store, feminist, best feminist film 2019 ]
 comments: false
 ---

@@ -22,6 +22,6 @@ Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 
 ## My opinions
 
-I share random thoughts and opinion on this website's [blog](https://roxannejoncas/posts/).
+I share random thoughts and opinion on this website's [blog](https://roxannejoncas.com/posts/).
 
-[Read my opinions](https://roxannejoncas/posts/{: .btn}
+[Read my opinions](https://roxannejoncas.com/posts/{: .btn}

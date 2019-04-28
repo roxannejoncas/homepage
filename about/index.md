@@ -14,19 +14,11 @@ Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 * Reader: books recommendations on Instagram <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a>
 * Planet lover: zero waste tips on Instagram <a href="https://www.instagram.com/noplastichome/">@noplastichome</a>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <a target="_blank" href="https://www.instagram.com/noplastichome/"><img src="/assets/img/zerowaste-square.jpg"></a>
-    </div>
-    <div class="col-sm">
-      <a target="_blank" href="https://www.evulving.com/"><img src="/assets/img/evulve-square.jpg"></a>
-    </div>
-  </div>
-</div>
+[![No Plastic Home](/assets/img/zerowaste-square.jpg)](https://www.instagram.com/noplastichome/){:target="_blank"}
+[![Evulving website](/assets/img/evulve-square.jpg)](https://www.evulving.com/){:target="_blank"}
 
 ## My opinions
 
-I share random thoughts and opinion on this website's [blog](https://roxannejoncas.com/posts/).
+I share random thoughts and opinion on this website's blog.
 
 [Go to blog](https://roxannejoncas.com/posts/){: .btn}

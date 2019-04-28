@@ -16,15 +16,11 @@ Here’s “Corporate Kit” on her first day. Does anyone else want that yellow
 
 The film was directed by Brie Larson and written by Samantha McIntyre, two women who just get it. The dry humour in this film is so masterful, it’s easily missed. One of my favourite lines is Kit defending her ex-art teacher: “No, he’s not an idiot. He’s the first artist to put a stick in a box.” A joke so feminist, I wish I came up with it myself.
 
-<div class="image center" markdown="1">
-![Kit stick in a box](/posts/img/unicorn-stickbox.png)
-</div>
+![Kit stick in a box](/assets/img/unicorn-stickbox.png)
 
 I love how the film plays with colour; the office and business aspects are extra drab, yet Kit is always so colourful. Even when she tries to hide her inner self in the corporate world she wears a yellow backpack and when she’s in the woods, she sports a puffy rainbow jacket.
 
-<div class="image center" markdown="1">
-![Kit's Rainbow Jacket](/posts/img/unicorn-rainbow.png)
-</div>
+![Kit's Rainbow Jacket](/assets/img/unicorn-rainbow.png)
 
 There are many great reviews out there praising the film’s feminism, but, I didn’t find one talking about what I took away from the film.
 
@@ -36,9 +32,7 @@ The film advocates following your dreams and being yourself as the path to happi
 
 In one scene, a male duo pitches their advertisement idea for the “Mystic Vac”. Their pitch is a woman in a hot pink minidress, holding a baby and the vacuum while taking a selfie.
 
-<div class="image center" markdown="1">
-![Mystic Vac Unicorn Store](/posts/img/unicorn-vacuum.png)
-</div>
+![Mystic Vac Unicorn Store](/assets/img/unicorn-vacuum.png)
 
 At the end of the sexist presentation, the marketing lead (and only woman in the room) says with awe in her voice, “Maybe one day I can look like that when I vacuum.”
 
@@ -46,9 +40,7 @@ Sound familiar?
 
 Throughout the film, Kit visits *The Store* multiple times, trying to convince The Salesman (Samuel L. Jackson) that she’s worthy of a real live Unicorn.
 
-<div class="image center" markdown="1">
-![Salesman Samuel L. Jackson](/posts/img/unicorn-salesman.png)
-</div>
+![Salesman Samuel L. Jackson](/assets/img/unicorn-salesman.png)
 
 He tells her that she needs to do three things before she can be granted a unicorn: 1) build a worthy home 2) have a stable income and 3) create a loving and supportive family environment.
 
@@ -56,9 +48,7 @@ Ultimately, I saw the Unicorn as a metaphor for having a child. Kit always wante
 
 When Kit goes back to *The Store* with Virgil (Mamoudou Athie) to prove to him that she’s truly getting a unicorn, she finds the store to be empty. Everything’s disappeared. She cries and says, “If I gotta girl, I was gonna name her Zoe, or Beyoncé.”
 
-<div class="image center" markdown="1">
-![Empty Unicorn Store](/posts/img/unicorn-zoe.png)
-</div>
+![Empty Unicorn Store](/assets/img/unicorn-zoe.png)
 
 After seeing the empty store and hearing Kit’s story, Virgil assumes that Kit is naive and was conned by some evil man. It’s condescending. It’s easier for him to believe that she made it all up, that his world view was right all along, instead of trusting her.
 

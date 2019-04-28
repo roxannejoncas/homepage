@@ -13,7 +13,7 @@ Last week, I watched *Unicorn Store* on Netflix. Someone raved about it on Insta
 Here’s “Corporate Kit” on her first day. Does anyone else want that yellow backpack?
 
 <figure>
-	<img src="https://zestyroxy.github.io/homepage/posts/img/unicorn-backpack.png"></a>
+	<img src="/posts/img/unicorn-backpack.png">
 	<figcaption>Kit on her first work day</figcaption>
 </figure>
 

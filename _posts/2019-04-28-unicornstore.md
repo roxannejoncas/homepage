@@ -12,7 +12,7 @@ Last week, I watched *Unicorn Store* on Netflix. Someone raved about it on Insta
 
 Here’s “Corporate Kit” on her first day. Does anyone else want that yellow backpack?
 
-![Kit's yellow backpack](/posts/img/unicorn-backpack.png)
+![Kit's yellow backpack](/_posts/img/unicorn-backpack.png)
 
 The film was directed by Brie Larson and written by Samantha McIntyre, two women who just get it. The dry humour in this film is so masterful, it’s easily missed. One of my favourite lines is Kit defending her ex-art teacher: “No, he’s not an idiot. He’s the first artist to put a stick in a box.” A joke so feminist, I wish I came up with it myself.
 

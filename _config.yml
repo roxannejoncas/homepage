@@ -8,7 +8,7 @@ logo:               'assets/img/roxanne.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://zestyroxy.github.io/homepage/
+url:                https://roxanne.joncas.com
 
 # Jekyll
 permalink:          /:title/

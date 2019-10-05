@@ -46,7 +46,7 @@ After we let each other go, I darted my gaze in the direction of the harasser. H
 She laughed. “It’s true. I rarely have *any* fun myself.”  
 “I doubt that’s true. You just had a blast talking to that wonderful young man.”  
 “Yes, charming. But not to smart. He didn’t seem to understand what the words *I’m gay* mean.”  
-I reveled internally about her casually mentioning that she’s into women. “Can’t expect too much of him.” I handed her my teacup, she took a tentative sip. Her eyes widened, releasing their full emerald shine in the afternoon sun.  
+I revelled internally about her casually mentioning that she’s into women. “Can’t expect too much of him.” I handed her my teacup, she took a tentative sip. Her eyes widened, releasing their full emerald shine in the afternoon sun.  
 “It’s delicious!” she said.  
 “I know.”  
 “You really should patent it. Or start a café or something.”  
@@ -57,7 +57,7 @@ She reached into her bag. “Banana?”
 “Chex mix. It’s a baked mixture of pretzels, peanuts, bread chips, Chex cereal squares or other square crackers. All of it is covered in a butter and Worcestershire sauce, seasoned with garlic and onion powder, and salt.”  
 “Wow, you know all the ingredients by heart?”  
 “I love food. My mom and I used to make it all the time. That, and Rice Krispy squares.”  
-She grabs a hand full of Chex mix, “Rice Krispy squares? What are those?” She crunched away and put her hand over her mouth. “Oh, this so good,” she says through her mouthful.  
+She grabs a hand full of Chex mix, “Rice Krispy squares? What are those?” She crunched away and put her hand over her mouth. “Oh, this so good,” she said through her mouthful.  
 “Only the best dessert of all time.” I grab a persimmon slice. “They're puffed rice cereal covered in a sticky buttery marshmallow mix. I imagine it’s what clouds would taste like. If they were a little crunchy and stringy.”  
 “I would love to try one someday. I’m planning a trip to the USA after my graduation, so maybe then.”  
 “Why wait? We can go to my house and make some.”  

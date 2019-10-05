@@ -4,7 +4,7 @@ title: "Short Story | Lemongrass"
 date: 2019-10-05
 excerpt: "Sunshine lights up my eyelids. That’s when I smell it. Lemongrass."
 feature: assets/img/treefall.png
-tags: [short story, lemongrass, rice krispies, germany gay couple]
+tags: [short story, lemongrass, rice krispies, gay happy ending]
 work: true
 comments: false
 ---

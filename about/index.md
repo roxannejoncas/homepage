@@ -9,7 +9,7 @@ comments: false
 Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
 
 ## What do I do?
-* **Writer:** read my <a href="/work/">short stories</a>
+* **Writer:** read my <a href="/write/">short stories</a>
 * **Feminist:** read my blog about sexism <a href="https://www.instagram.com/evulving/">Evulving.com</a>
 * **Reader:** follow me for books recommendations <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a>
 * **Planet lover:** get zero waste tips <a href="https://www.instagram.com/noplastichome/">@noplastichome</a>

@@ -67,4 +67,4 @@ She grabs a hand full of Chex mix, “Rice Krispy squares? What are those?” Sh
 And that’s how we got here—Rice Krispy squares. Now she’s in my bed. I don’t want it to end.
 
 <br />
-*Photo by Dan Freeman on Unsplash*
+*Photo by <a target="_blank" href="https://unsplash.com/@danfreemanphoto">Dan Freeman</a> on Unsplash*

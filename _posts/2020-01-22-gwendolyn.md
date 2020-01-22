@@ -13,7 +13,7 @@ comments: false
 “Mom. It’s me, Claire,” my sister says. She’s frowning, the way she always does when she’s upset about something. I don’t ask who Claire is supposed to be. Probably a character she’s practicing for, a new theatre role.  
 “Who else would it be?” I ask. She sighs and places a cup of tea on the table next to me. Teddy’s already sitting down, ready for teatime. Trustworthy Teddy.  
 “Is it Earl Grey?” I ask.  
-“Yes, your favourite,” she says. This rubs me the wrong way. I know that it’s my favourite. It’s *my* favourite. But again, I don’t comment. Instead, I pick up the book that’s facedown on my lap. It’s old and torn. I turn it over to read the title: A Wrinkle in Time.  
+“Yes, your favourite,” she says. This rubs me the wrong way. I know that it’s my favourite. It’s *my* favourite. But again, I don’t comment. Instead, I pick up the book that’s facedown on my lap. It’s old and torn. I turn it over to read the title: *A Wrinkle in Time*.  
 “What happened to my book?”  
 “It’s just tattered. You’ve worn it down with your hands and your hungry eyes.”  
 “But, I just got it last week. For my birthday.”  

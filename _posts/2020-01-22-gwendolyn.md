@@ -102,5 +102,6 @@ I whisper to Addy, “That was the worst motel I’ve ever slept in. My back fee
 
 I pull my hand away and look down at my lap. At least Teddy never pretends to be someone else. I turn him around so he can look out the window. Adeline sighs, turns on the engine, and drives us out of the parking lot. It’s a pretty car. It looks futuristic. This man Peter must have a lot of money. Maybe that’s why she left George.  
 
+
 **Author's Note**: I wrote this story in March 2019, but edited again yesterday.  
 *Photo by <a target="_blank" href="https://unsplash.com/@maksymvlasenko">Максим Власенко</a> on Unsplash*

@@ -11,11 +11,13 @@ I'm a writer and love books (as demonstrated on <a target="blank" href="https://
     
 ![Roxanne Joncas 2019](/assets/img/roxanne-alps.jpg)
 
+
 Sometimes I think I'm hard to define. Who am I? What do I love? What do I believe in? 
 
 Then, I remember: one of the most interesting things about humans is that, although we live on the same planet, we experience the world differently. I'm visual and like to observe and capture experiences through writing.
 
 ![Inspiration Image](/assets/img/inspiration.png)
+
 
 What will you find on my website? 
 

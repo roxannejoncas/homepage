@@ -18,7 +18,7 @@ That’s why I love "[Writing Fiction: A Guide to Narrative Craft](https://www.g
 
 I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information and I do the exercises at my own pace. 
 
-![Writing Fiction](assets/img/writingfiction-10.png)]
+![Writing Fiction](assets/img/writingfiction-10.png)
 
 The latest edition of the book is much cheaper (€20€) then previous textbook versions because it doesn't include the recommended reads. I don't mind that; some of the reads are available for free online or you can visit a good ol' library.
 

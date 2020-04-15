@@ -1,6 +1,6 @@
 ---
 layout: write
-title: My stories
-excerpt: "Here are some of the pieces I wrote."
+title: How to be a writer
+excerpt: "I learn more about writing everyday. These are the resources that help me."
 comments: false
 ---

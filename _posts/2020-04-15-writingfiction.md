@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title: "Book | Writing Fiction: A Guide to Narrative Craft"	
+title: "Book | Writing Fiction: A Guide to Narrative Craft by Janet Burroway"	
 date: 2020-04-15	
 excerpt: "Should you buy this book to learn how to write fiction?"	
 feature: assets/img/bookstack.png	
@@ -8,7 +8,7 @@ tags: [janet burroway tenth edition]
 write: true	
 comments: false	
 ---	
-## Writing Fiction: A Guide to Narrative Craft
+## What book should I buy to start writing fiction?
 
 Writing is hard. Thankfully there are great resources out there to help you learn everything you need to know about writing. But, when you start researching for books on "how to write" you'll be inundated with resources and it can get overwhelming. Which one is the right one? Where do I start? How do I learn without spending too much? 
 
@@ -18,7 +18,7 @@ That’s why I love "[Writing Fiction: A Guide to Narrative Craft](https://www.g
 
 I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information and I do the exercises at my own pace. 
 
-[![Writing Fiction](assets/img/writingfiction-10.png)](https://www.goodreads.com/book/show/222117.Writing_Fiction)
+![Writing Fiction](assets/img/writingfiction-10.png)]
 
 The latest edition of the book is much cheaper (€20€) then previous textbook versions because it doesn't include the recommended reads. I don't mind that; some of the reads are available for free online or you can visit a good ol' library.
 

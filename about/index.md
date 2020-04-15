@@ -10,6 +10,7 @@ One of the interesting things about humans is that, although we live on the same
 ## Inspiration Log
 
 Here's what inspires me to create. The universe has so many things to offer and I want to bask in as many as possible!
+
 *Warning: it changes on a weekly (sometimes daily) basis.*
 
-[Go to blog](/posts/){: .btn}
+[Visit my blog for inspiration](/posts/){: .btn}

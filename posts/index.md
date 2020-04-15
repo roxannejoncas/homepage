@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Inspiration Log
+excerpt: "This is what inspires me to create"
 comments: false
 ---

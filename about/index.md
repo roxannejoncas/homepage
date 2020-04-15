@@ -5,20 +5,11 @@ tags: [about, roxanne joncas]
 date: 2019-12-09
 comments: false
 ---
+One of the interesting things about humans is that, although we live on the same planet, we experience the world differently. I'm visual and like to observe and capture experiences through writing.
 
-Hi, I'm Roxanne Joncas and I'm a writer, among many other things.
+## Inspiration Log
 
-## What do I do?
-* **Writer:** read my <a href="/write/">short stories</a>
-* **Feminist:** read my blog about sexism <a href="https://www.instagram.com/evulving/">Evulving.com</a>
-* **Reader:** follow me for books recommendations <a href="https://www.instagram.com/zestyroxy/">@zestyroxy</a>
-* **Planet lover:** get zero-waste tips <a href="https://www.instagram.com/noplastichome/">@noplastichome</a>
-
-
-<figure class="half"> <a target="_blank" href="https://www.evulving.com/"><img src="/assets/img/evulving-square.png" alt="evulving logo"></a> <a target="_blank" href="https://www.instagram.com/noplastichome/"><img src="/assets/img/zerowaste-square.jpg" alt="no plastic home"></a></figure>
-
-## My opinions
-
-I share random thoughts and opinion on my personal blog.
+Here's what inspires me to create. The universe has so many things to offer and I want to bask in as many as possible!
+*Warning: it changes on a weekly (sometimes daily) basis.*
 
 [Go to blog](/posts/){: .btn}

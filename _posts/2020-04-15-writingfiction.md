@@ -2,22 +2,26 @@
 layout: post	
 title: "Book | Writing Fiction: A Guide to Narrative Craft"	
 date: 2020-04-15	
-excerpt: "Where to start if you want to write fiction?"	
+excerpt: "Should you buy this book to learn how to write fiction?"	
 feature: assets/img/bookstack.png	
 tags: [janet burroway tenth edition]	
 write: true	
 comments: false	
 ---	
-Writing is hard and when you start researching for books on "how to write" you will be innundated with resources. Rest assured: there's no right or wrong place to start. The only important part is to start. Write, everyday. You'll get better through practice and though you'll never stop learning, you'll get a better feeling of what works for you.
+## Writing Fiction: A Guide to Narrative Craft
 
-I was recommended the book "[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117.Writing_Fiction) by my teacher, Nina Lacour. She teaches an online class called [The Slow Novel Lab](https://www.ninalacour.com/the-slow-novel-lab), which has been invaluable to my learning process.
+Writing is hard. Thankfully there are great resources out there to help you learn everything you need to know about writing. But, when you start researching for books on "how to write" you'll be inundated with resources and it can get overwhelming. Which one is the right one? Where do I start? How do I learn without spending too much? 
 
-The reason I love the book is because it has many writing prompts to help you learn and explore your writing. The books also has suggested reads to demonstrate what's been taught in any given chapter. I read a chapter when my brain is ready for new information and do the excercises at my own pace. 
+There's no right or wrong place to start. The only important part is to start. Write, everyday. You'll get better through practice and though you'll never stop learning, you'll get a better feel of what works for you.
 
-<div class="image center" markdown="1">
-![Writing Fiction Janet Burroway](assets/img/writingfiction-10.png)
-</div>
+That’s why I love "[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117.Writing_Fiction)[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117.Writing_Fiction)”, it offers many ways to learn. When I picked up the book, I started with it’s last chapter because I wanted to learn about theme and revision. I especially like the many writing prompts at the end of every chapter. They push me to explore my writing and to learn through experience.
 
-The latest edition of the book is cheaper then the previous textbook versions because it doesn't include the recommended reads, but some of them are available for free online, or you can visit a good ol' library.
+I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information and I do the exercises at my own pace. 
+
+[![Writing Fiction](assets/img/writingfiction-10.png)](https://www.goodreads.com/book/show/222117.Writing_Fiction)
+
+The latest edition of the book is much cheaper (€20€) then previous textbook versions because it doesn't include the recommended reads. I don't mind that; some of the reads are available for free online or you can visit a good ol' library.
+
+Janet’s book was recommended to me by my teacher, Nina LaCour. She teaches an online class called [The Slow Novel Lab](https://www.ninalacour.com/the-slow-novel-lab), which has been invaluable to my learning process and I highly recommend it.
 
 *Photo by [Mahendra Kumar](https://unsplash.com/@mahen144) on Unsplash

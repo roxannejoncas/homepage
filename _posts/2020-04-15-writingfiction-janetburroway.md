@@ -14,7 +14,7 @@ Writing is hard. Thankfully there are great resources out there to help you lear
 
 There's no right or wrong place to start. The only important part is to start. Write, everyday. You'll get better through practice and though you'll never stop learning, you'll get a better feel of what works for you.
 
-That’s why I love "<a target=_blank" href="https://www.goodreads.com/book/show/222117”>Writing Fiction: A Guide to Narrative Craft</a>", it offers many lessons accompanied by many examples that I can tackle at my own pace. When I first picked up the book, I started with the last chapter because I wanted to learn about theme and revision. (As I said, there's no wrong way—we all learn differently.) I especially like the many writing prompts at the end of every chapter. They push me to explore my writing and to learn by doing.
+That’s why I love "<a target="_blank" href="https://www.goodreads.com/book/show/222117”>Writing Fiction: A Guide to Narrative Craft</a>", it offers many lessons accompanied by many examples that I can tackle at my own pace. When I first picked up the book, I started with the last chapter because I wanted to learn about theme and revision. (As I said, there's no wrong way—we all learn differently.) I especially like the many writing prompts at the end of every chapter. They push me to explore my writing and to learn by doing.
 
 I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information. Then, over the following weeks, I do some of the exercises.
 

@@ -14,13 +14,13 @@ Writing is hard. Thankfully there are great resources out there to help you lear
 
 There's no right or wrong place to start. The only important part is to start. Write, everyday. You'll get better through practice and though you'll never stop learning, you'll get a better feel of what works for you.
 
-That’s why I love "[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117.Writing_Fiction)[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117.Writing_Fiction)”, it offers many ways to learn. When I picked up the book, I started with it’s last chapter because I wanted to learn about theme and revision. I especially like the many writing prompts at the end of every chapter. They push me to explore my writing and to learn through experience.
+That’s why I love "[Writing Fiction: A Guide to Narrative Craft](https://www.goodreads.com/book/show/222117)”, it offers many lessons accompanied by many examples that I can tackle at my own pace. When I first picked up the book, I started with the last chapter because I wanted to learn about theme and revision. (As I said, there's no wrong way—we all learn differently.) I especially like the many writing prompts at the end of every chapter. They push me to explore my writing and to learn by doing.
 
-I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information and I do the exercises at my own pace. 
+I'm still making my way through this book; it's dense and can't be taken in all at once. I dip in and out of the book when my brain is ready for new information. Then, over the following weeks, I do some of the exercises.
 
 ![Writing Fiction](/assets/img/writingfiction-10.png)
 
-The latest edition of the book is much cheaper (€20€) then previous textbook versions because it doesn't include the recommended reads. I don't mind that; some of the reads are available for free online or you can visit a good ol' library.
+The latest and tenth edition of this book is much cheaper (€20€) then previous textbook versions because it doesn't include the recommended reads. I don't mind that because the reads are still listed for every chapter and some of them are available for free online. You can visit a good ol' library to find the rest.
 
 Janet Burroway’s book was recommended to me by my teacher, Nina LaCour. She teaches an online class called [The Slow Novel Lab](https://www.ninalacour.com/the-slow-novel-lab), which has been invaluable to my learning process and I highly recommend it.
 

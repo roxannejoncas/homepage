@@ -24,4 +24,4 @@ The latest and tenth edition of this book is much cheaper (€20€) then previo
 
 Janet Burroway’s book was recommended to me by my teacher, Nina LaCour. She teaches an online class called <a target="blank" href="https://www.ninalacour.com/the-slow-novel-lab">The Slow Novel Lab</a>, which has been invaluable to my learning process and I highly recommend it.
 
-*Background photo by [Mahendra Kumar](https://unsplash.com/photos/fkhesK9SRVU) on Unsplash
+*Background photo by <a target="_blank" href="https://unsplash.com/photos/fkhesK9SRVU">Mahendra Kumar</a> on Unsplash*

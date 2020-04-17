@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, roxanne joncas]
+tags: [roxanne joncas]
 date: 2019-12-09
 comments: false
 ---
@@ -27,7 +27,7 @@ The universe has so many things to offer and I want to bask in as many as possib
 
 *Warning: it changes on a weekly (sometimes daily) basis.*
 
-[Get inspired](/posts/){: .btn}
+[Inspiration Log](/posts/){: .btn}
 
 ## How to be a writer
 

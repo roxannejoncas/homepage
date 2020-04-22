@@ -1,6 +1,6 @@
 ---
 layout: write
-title: How to be a writer
-excerpt: "I learn more about writing everyday. These are the resources that help me."
+title: Being a writer and loving cooks
+excerpt: "I learn more about writing everyday from various places. I'll share my resources here."
 comments: false
 ---

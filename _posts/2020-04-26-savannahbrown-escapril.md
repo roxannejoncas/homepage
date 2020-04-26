@@ -16,7 +16,7 @@ Anyway. Here’s the poem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oou9kMR6ZrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This month, I’ve been participating in Savannah's <a target="_blank" href"https://www.instagram.com/letsescapril/?hl=en">@letsescapril</a>, an escape into poetry everyday.
+This month, I’ve been participating in Savannah's <a target="_blank" href="https://www.instagram.com/letsescapril/?hl=en">@letsescapril</a>, an escape into poetry everyday.
 
 ![What is escapril](/assets/img/whatisescapril.png)
 
@@ -29,7 +29,7 @@ To make the task less daunting, I cut out postcard size paper (from packaging pa
 I don’t put pressure on myself to write something perfect. I let it flow and explore ideas that bubble up. It helps me find out more about the characters I give less “air-time” to, in turn it helps me represent them better in the novel.
 
 Want to try it out? Here are the prompts.
-![Escapril 2020 Prompts](/assets/img/escapril2020promts.png)
+<a target="_blank" href="https://www.instagram.com/p/B9NKz36FYD5/?utm_source=ig_web_copy_link">![Escapril 2020 Prompts](/assets/img/escapril2020promts.png)</a>
 
 Finishing a project after your initial inspiration seeps away is hard. Don’t quit. Complete it even if you think it’s bad. You’ll be proud of your accomplishment and you’ll have learned something. Will the novel I’m currently writing be published? Probably not, it’s my first one, but who cares? I enjoy writing it and I’m discovering so much. The only way to learn how to do something is to do it. Want to write? Then write and write some more.
 

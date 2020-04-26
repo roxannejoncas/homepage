@@ -33,4 +33,4 @@ Want to try it out? Here are this year's prompts.
 
 <a target="_blank" href="https://www.instagram.com/p/B9NKz36FYD5/?utm_source=ig_web_copy_link">![Escapril 2020 Prompts](/assets/img/escaprilprompts2020.png)</a>
 
-Finishing a project after the initial inspiration seeps away is hard. Don’t quit. Complete it even if you think it’s bad. You’ll be proud of your accomplishment and you’ll have learned something. Will the novel I’m currently writing be published? Probably not, it’s my first one, but who cares? I enjoy writing it and I’m discovering so much. The only way to learn how to do something is to do it. Want to write? Then write and write some more.
+Finishing a project after the initial inspiration seeps away is hard. Don’t quit. Complete it even if you think it’s bad. You’ll be proud of your accomplishment and you’ll have learned something. Will the novel I’m currently writing be published? Probably not, it’s my first one, but who cares? I enjoy writing it and I’m discovering so much. The only way to learn how to do something is to do it. Want to write? Then, write and write some more.

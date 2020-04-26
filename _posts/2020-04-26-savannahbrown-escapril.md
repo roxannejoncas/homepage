@@ -27,7 +27,7 @@ To make the task less daunting, I cut out postcard size paper (from packaging pa
 
 ![Postcard sized paper for microfiction](/assets/img/escapril-paper.jpg)
 
-I don’t pressure myself to write something perfect. I let it flow and explore ideas that bubble up. It helps me find out more about the characters I give less “air-time” to, which will hopefully result in me knowing them better and making them feel real to the readers. Writing about them also gives me new ideas for the story and gets me excited to get to my laptop and write.
+I don’t pressure myself to write something perfect. I let it flow and explore ideas that bubble up. It helps me find out more about the characters I give less “air-time” to and will, hopefully, help make them feel more well-rounded and real to the reader. Writing about them also gives me new ideas for the story and gets me excited to get to my laptop and write.
 
 Want to try it out? Here are this year's prompts.
 

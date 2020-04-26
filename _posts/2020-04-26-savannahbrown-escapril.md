@@ -2,7 +2,7 @@
 layout: post	
 title: "Escapril | Savannah Brown and Poetry"	
 date: 2020-04-26	
-excerpt: "Building a writing habit"	
+excerpt: "It's important to build a writing habit, but make it your own"	
 feature: assets/img/escapril-paper.jpg
 tags: [escapril, writing habit, poetry]	
 write: true	

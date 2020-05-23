@@ -23,7 +23,7 @@ The book left me craving for s’mores and coffee cake, but this sweet orange-ze
 
 Noticed the heart I fashioned with my earphones? That’s how much I love this book: 5 hearts.
 
-Rating: &#128420; &#128420; &#128420; &#128420; &#128420;
+Rating: &#x1f5a4; &#x1f5a4; &#x1f5a4; &#x1f5a4; &#x1f5a4;
 
 I got the audio version of the novel, because Nicole did the voice over for her book and I love her voice. You can hear her read a snippet of the book in this video.
 

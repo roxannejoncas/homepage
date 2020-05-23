@@ -1,10 +1,10 @@
 ---	
 layout: post	
-title: "Poetry | Savannah Brown"	
-date: 2020-04-26	
-excerpt: "It's important to build a writing habit (but make it your own)"	
-feature: assets/img/escapril-paper.jpg
-tags: [escapril, writing habit, poems]	
+title: "Book | Unscripted by Nicole Kronzer"	
+date: 2020-05-23	
+excerpt: "This book made me want to join an improv team"	
+feature: assets/img/unscripted.png
+tags: [book review, unscripted]	
 comments: false	
 ---
 I met Nicole through the online writing class I’m currently taking called, <a target="_blank" href="https://www.ninalacour.com/the-slow-novel-lab">The Slow Novel Lab</a>, taught by the wonderful Nina LaCour (subscriptions are open for the next class). Nicole stood out from my fellow classmates from the start; her smile, wit, and enthusiasm drew me in, much like her first novel, <a target="_blank" href="https://www.goodreads.com/book/show/50083121-unscripted">Unscripted</a>.

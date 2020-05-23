@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title: "April 20, 2020 | My First Zine"	
+title: "Craft | My First Zine"	
 date: 2020-04-20	
 excerpt: "Part of my learning to stop aiming for perfect"	
 feature: assets/img/firstzine.png	

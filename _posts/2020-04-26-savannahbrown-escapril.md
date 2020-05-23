@@ -8,7 +8,7 @@ tags: [escapril, writing habit, poetry]
 write: true	
 comments: false	
 ---	
-I love poet and novelist, <a target="_blank" href="https://www.savbrown.com/home">Savannah Brown</a>.
+I love poet and novelist <a target="_blank" href="https://www.savbrown.com/home">Savannah Brown</a>.
 
 My favourite poem of hers is "couldn’t care more", especially because I’ve always thought, why is the saying "I couldn’t care less," when most of the time I could care less, although at the same time I wouldn’t make the effort to care more about this thing I don’t care about, so why not just say, "I don’t care."
 

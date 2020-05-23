@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 28, 2019 | Unicorn Store - A feminist film"
+title: "Film | Unicorn Store - A feminist film"
 date: 2019-04-28
 excerpt: "Last week, I watched Unicorn Store on Netflix. I’m pleased to report that I came out of the viewing experience elated."
 feature: /assets/img/unicorn-backpack.png

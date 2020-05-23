@@ -5,7 +5,6 @@ date: 2020-04-26
 excerpt: "It's important to build a writing habit (but make it your own)"	
 feature: assets/img/escapril-paper.jpg
 tags: [escapril, writing habit, poetry]	
-write: true	
 comments: false	
 ---	
 I love poet and novelist <a target="_blank" href="https://www.savbrown.com/home">Savannah Brown</a>.

@@ -5,7 +5,6 @@ date: 2020-04-15
 excerpt: "Should you buy this book to learn how to write fiction?"	
 feature: assets/img/bookstack.png	
 tags: [book recommendation, writing]	
-write: true	
 comments: false	
 ---	
 ## What book should I buy to start writing fiction?

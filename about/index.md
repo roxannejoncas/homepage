@@ -7,7 +7,7 @@ comments: false
 ---
 Hello and welcome, I'm Roxanne Joncas (she/her). 
 
-I'm a writer and love books (as you can see in most of my <a target="blank" href="https://instagram.com/zestyroxy">Instagram</a> stories). I also art, nature, photography, yoga, and bouldering.
+I'm a writer and I love books of all genres (as you can see in most of my <a target="blank" href="https://instagram.com/zestyroxy">Instagram</a> stories). I also enjoy cooking/baking, art, being outdoors, yoga and bouldering.
     
 ![Roxanne Joncas 2019](/assets/img/roxanne-alps.jpg)
 

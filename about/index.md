@@ -2,16 +2,13 @@
 layout: page
 title: About Me
 tags: [roxanne joncas]
-date: 2019-12-09
+date: 2024-07-01
 comments: false
 ---
 Hello and welcome, I'm Roxanne Joncas (she/her). 
 
-I'm a writer and I love books of all genres (as you can see in most of my <a target="blank" href="https://instagram.com/zestyroxy">Instagram</a> stories). I also enjoy cooking/baking, art, being outdoors, yoga and bouldering.
+I love good stories told in every form (novels, films, stand up and video games). If I'm not on a bouldering wall, I'm writing or baking.
     
-![Roxanne Joncas 2019](/assets/img/roxanne-alps.jpg)
+![Roxanne Joncas 2019](/assets/img/mandala_rox_may2024.jpg)
 
-
-Sometimes I think I'm hard to define. Who am I? What do I love? What do I believe in? 
-
-Then, I remember: one of the most interesting things about humans is that, although we live on the same planet, we experience the world differently and evolve continuously (albeit sometimes slowly). I like to observe and capture experiences through writing.
+For a long time, I worried I was missing out on all the things I didn't have time to do. But it's more fun to slow down and spend time doing the things I enjoy with wonderful people.

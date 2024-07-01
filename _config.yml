@@ -4,7 +4,7 @@ bio:                'Writer and book lover'
 description:        "Who am I? A writer and book lover"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/roxanne.jpg'
+logo:               'assets/img/roxannejoncas2023.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

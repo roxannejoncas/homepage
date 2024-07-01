@@ -9,7 +9,7 @@ Hello and welcome,
 
 I'm Roxanne Joncas (she/her). 
 
-I love good stories told in every form (novels, films, stand-up and video games). If I'm not on a bouldering wall, I'm writing or baking.
+I love good stories told in every form (novels, films, stand-up, and video games). If I'm not on a bouldering wall, I'm writing or baking.
     
 ![Roxanne Joncas 2019](/assets/img/mandala_rox_may2024.jpg)
 
